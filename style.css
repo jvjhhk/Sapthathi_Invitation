@@ -451,3 +451,24 @@ text-transform: none;
   cursor: pointer;
   font-family: inherit;
 }
+
+.contact-details {
+  max-width: 540px;
+  margin: 0 auto 26px;
+  padding: 0 16px;
+  color: var(--cream);
+  font-family: "DM Sans", sans-serif;
+  font-size: 0.95rem;
+  line-height: 1.8;
+  text-align: center;
+  overflow-wrap: anywhere;
+}
+
+.contact-details p {
+  margin: 8px 0;
+}
+
+.contact-details a {
+  color: var(--light-gold);
+  text-decoration: none;
+}
