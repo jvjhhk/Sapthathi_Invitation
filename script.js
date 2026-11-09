@@ -1,5 +1,4 @@
-
-const venueLink = "https://maps.app.goo.gl/r4V4bAhndTBhYq2k7";
+const venueLink = "https://www.google.com/maps/dir/?api=1&destination=Diya+Gardens+Convention+Centre,+Attingal,+Kerala&travelmode=driving";
 
 // Open the invitation
 const welcomeScreen = document.getElementById("welcomeScreen");
